@@ -22,4 +22,5 @@ while flg:
 			print "ATARI!"
 		else:
 			print "HAZURE!!"
+print "Good Bye"
 
